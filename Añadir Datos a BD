@@ -1,0 +1,6 @@
+INSERT INTO producto
+(idProducto,Nombres,Foto,Descripcion,Precio,Stock)
+
+VALUES('9','Curitas',NULL,'Banda curativa para heridas','2','2000'),
+('10','Jarabe',NULL,'Jarabe bebible para curar resfriados','10','3000'),
+('12','Bloqueador solar',NULL,'Bloqueador solar para eviar cemaduras del sol','25','4000')
